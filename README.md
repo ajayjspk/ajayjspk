@@ -1,58 +1,37 @@
-# 👋 Hi, I'm Ajay Arava!
+<h1 align="center">Hi 👋, I'm Ajay Arava</h1>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
-### 🚀 Passionate Software Developer | React Enthusiast | Tech Community Organizer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayjspk&label=Profile%20views&color=0e75b6&style=flat" alt="ajayjspk" /> </p>
 
-I'm a **Computer Science and Engineering** student at GMR Institute Of Technology, with a knack for developing scalable and maintainable software solutions. I enjoy solving complex problems and learning new technologies. 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayjspk" alt="ajayjspk" /></a> </p>
 
-### 💼 Experience
-- **React Developer** at *INV Technologies* (Nov 2023 - Dec 2023)
-  - Developed a scalable Front-End landing page, ensuring 70% user satisfaction and future extensibility.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- **Web Development Intern** at *TopNotch, Hyderabad* (Jun 2023 - Aug 2023)
-  - Implemented advanced CRUD operations, leading to a 30% improvement in application performance metrics.
+- 🔭 I’m currently working on **Quizz App**
 
-### 🔨 Skills
-- **Languages**: C, C++, Java, Python, SQL
-- **Frameworks**: React, React Native, Flask, Django
-- **Tools**: Git, GitHub, VS Code, Docker, AWS
-- **Soft Skills**: Teamwork, Leadership, Event Management
+- 🌱 I’m currently learning **React Native, AWS, Docker**
 
-### 📚 Education
-- **Bachelor of Technology** in Computer Science and Engineering (2021 - 2025)
-  - GMR Institute Of Technology, Srikakulam
-  - **CGPA**: 8.55
+- 👯 I’m looking to collaborate on **T**
 
-### 💻 Personal Projects
-- **DeepFake Detection using DL** [🔗 View Code](https://github.com/ajayjspk/DeepFake_Detection)
-  - Developed an AI system to identify deep fake videos with 94% accuracy.
+- 💬 Ask me about **React JS, Node JS, Django**
 
-- **CSI-GMRit Website** [🔗 View Project](https://www.csigmrit.com)
-  - Enhanced event registration efficiency by 40% through an interactive management portal.
+- 📫 How to reach me **aravaajay30@gmail.com**
 
-- **Content Management System (CMS)**
-  - Developed a MERN-based CMS that increased data handling efficiency by 50% and reduced server response time by 30%.
+- 📄 Know about my experiences [www.wxample.com](www.wxample.com)
 
-### 📜 Certifications
-- **Machine Learning with Python: A Practical Introduction** | IBM Edx
-- **Complete Web Development** | UDEMY
-- **Front-End Apps with React** | Coursera
+- ⚡ Fun fact **I’m not just a coder! I thrive in organizing coding events and building tech communities while staying at the forefront of web and software development.**
 
-### 🎓 Organizations
-- **Chair Person** | Computer Society of India Student Chapter, GMRIT (Oct 2023 - Present)
-- **Web-Lead** | Google Developer Student Clubs, GMRIT (Aug 2023 - Apr 2024)
-- **Campus Ambassador** | GeeksforGeeks, GMRIT (Dec 2022 - Jan 2024)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ajay-arava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-arava" height="30" width="40" /></a>
+<a href="https://instagram.com/8388ax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="8388ax" height="30" width="40" /></a>
+</p>
 
-### 📫 Connect with Me
-- Portfolio: [Ajay Arava](https://8388.netlify.app/)
-- LinkedIn: [Ajay Arava](https://in.linkedin.com/in/ajay-arava)
-- GitHub: [@ajayjspk](https://github.com/ajayjspk)
-- Email: [aravaajay30@gmail.com](mailto:aravaajay30@gmail.com)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### 📄 My Resume
-[![Ajay's Resume](https://img.shields.io/badge/View%20Resume-PDF-green)](https://raw.githubusercontent.com/ajayjspk/ajayjspk/main/21341A0505_Ajay.pdf)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayjspk&show_icons=true&locale=en&layout=compact" alt="ajayjspk" /></p>
 
-### 📈 GitHub Stats
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajayjspk&show_icons=true&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayjspk&show_icons=true&locale=en" alt="ajayjspk" /></p>
 
-### 🏆 GitHub Trophies
-![Ajay's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ajayjspk&theme=gruvbox&column=3&margin-w=15&margin-h=15)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajayjspk&" alt="ajayjspk" /></p>
