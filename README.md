@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aravaajay30@gmail.com**
 
-- 📄 Know about my experiences [www.wxample.com](www.wxample.com)
+- 📄 Know about my experiences [My PORTIFOLIO](https://8388.netlify.app/)
 
 - ⚡ Fun fact **I’m not just a coder! I thrive in organizing coding events and building tech communities while staying at the forefront of web and software development.**
 
